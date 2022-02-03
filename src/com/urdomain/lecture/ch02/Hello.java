@@ -19,6 +19,10 @@ public class Hello {
 		c = a + b;
 		
 		System.out.println(c);
+		
+		//Function : 기능 < Class안에 존재 < package < Library
+		//1. JDK :   
+		
 
 	}
 
