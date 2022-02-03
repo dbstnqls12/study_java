@@ -21,7 +21,7 @@ public class Hello {
 		System.out.println(c);
 		
 		//Function : 기능 < Class안에 존재 < package < Library
-		//1. JDK :   
+		//1. JDK : 함수, 기능... 많이 알수록 풍성해지쥬   
 		
 
 	}
