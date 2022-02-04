@@ -4,6 +4,8 @@ public class VariableExample {
 
 	public static void main(String[] args) {
 		
+//		변수 선언과 초기화		
+		
 		//10을 변수 value의 초기값으로 저장
 		int value = 10;
 		
@@ -12,7 +14,7 @@ public class VariableExample {
 		int result = value + 10;
 		
 		//변수 result값을 읽고 콘솔에 출력
-		System.out.println(result);
+		System.out.println("총합 : "+result);
 		
 
 	}

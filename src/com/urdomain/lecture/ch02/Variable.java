@@ -83,10 +83,18 @@ public class Variable {
 		System.out.println("수빈 왈 \"아주 조금 졸려.\"");
 		System.out.println("\\");
 		
+		//변수의 범위
+		//변수는 선언된 블럭{} 내에서만 사용사능하다
 
-
+		if(a==1) {
+			int aaa = 10;
+			int bbb = aaa + a;
+			System.out.println("bbb : "+bbb);
+		} else {
+			
+		}
 		
-		
+		//System.out.println("bbb : "+bbb); ->error
 		
 
 	}
