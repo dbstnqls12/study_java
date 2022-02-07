@@ -7,8 +7,11 @@ public class Variable {
 		//변수 명명밥
 		//첫글자 소문자 그리고 다음 문자열부터는 대문자
 		//모드 변수명은 붙여서 사용
-		String fullName = "Subin Youn";
-		String name = "Subin Youn";
+		String fullName = "Subin Youn"; //카멜표기법  //변수,함수
+		String full_name = "Subin Youn"; //스네이크표기법
+		String FullName = "Subin Youn"; //파스칼  //클래스, 상수
+				
+		String name = "Subin";
 		
 		
 		//대소문자 구분함
