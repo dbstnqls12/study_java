@@ -46,7 +46,8 @@ public class Variable {
 		//실수형은 0,0
 		//문자형은 ''또는 ""
 		
-		boolean defaultNy = false;
+		boolean defaultNy = true; //true
+		boolean delNy = false; //false
 
 		byte aa = 0;
 		short bb = 0;
