@@ -7,22 +7,31 @@ public class ArithmeticOperatorExample {
 		int v2 = 2;
 		
 		int result1 = v1 + v2;
-		System.out.println("result1 = "+result1);
+		System.out.println("result1 = "+result1); //7
 
 		int result2 = v1 - v2;
-		System.out.println("result2 = "+result2);
+		System.out.println("result2 = "+result2); //3
 		
 		int result3 = v1 * v2;
-		System.out.println("result3 = "+result3);
+		System.out.println("result3 = "+result3); //10
 		
 		int result4 = v1 / v2;
-		System.out.println("result4 = "+result4);
+		System.out.println("result4 = "+result4); //2
 		
 		int result5 = v1 % v2;
-		System.out.println("result5 = "+result5);
+		System.out.println("result5 = "+result5); //1
 		
 		double result6 = (double) v1 / v2;
-		System.out.println("result6 = "+result6);
+		System.out.println("result6 = "+result6); //2.5
 		
+//		double a = 456.413;
+//		double b = 45.45;
+//		double c = 0.0;
+//		double d = 0.0;
+//		
+//		c = a/b;
+//		d = a%b;
+//		System.out.println(c);
+//		System.out.println(d);
 	}
 }
