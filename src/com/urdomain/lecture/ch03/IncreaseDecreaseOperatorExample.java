@@ -7,6 +7,10 @@ public class IncreaseDecreaseOperatorExample {
 		int y = 10;
 		int z;
 		
+//		System.out.println(x++);
+//		System.out.println(x);
+//		System.out.println(++x);
+		
 		System.out.println("---------------1");
 		x++; //11  앞에 다른 연산이 없으니까 그냥 해도됨 ->증감연산자는 단독으로 쓰이면 결과에 차이가 없어
 		++x; //12
