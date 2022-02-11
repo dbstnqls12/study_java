@@ -39,6 +39,9 @@ public class ConditionLoop {
 //				}
 		
 //			switch
+//			조건에 정수, 문자열 가능
+//			switch case break default break
+		
 //			
 //		반복문
 //			for
