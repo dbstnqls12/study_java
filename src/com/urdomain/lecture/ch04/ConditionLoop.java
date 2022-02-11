@@ -45,6 +45,7 @@ public class ConditionLoop {
 //			
 //		반복문
 //			for
+//				끝을 정해두고 반복 수행이 되는 구문
 //			
 //			while : 무한루프
 //				
