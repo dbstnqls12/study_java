@@ -40,11 +40,15 @@ public class ConditionLoop {
 		
 //			switch
 //			조건에 정수, 문자열 가능
-//			switch case break default break
+//			switch 
+//				case
+//				break
+//				default
+//				break
 		
 //			
 //		반복문
-//			for
+//			for 
 //				끝을 정해두고 반복 수행이 되는 구문
 //			
 //			while : 무한루프
@@ -56,13 +60,7 @@ public class ConditionLoop {
 //			
 //			continue
 	
-		
-//		  for(int i=2; i<=9; i++) {
-//			  System.out.println(i+"의 구구단"); 
-//			  	for(int j=1; j<=9; j++) 
-//			  	{ System.out.println(+i+"X"+j+"="+(i*j));
-//			  	}
-//		  }
+
 		 
 	}
 }
