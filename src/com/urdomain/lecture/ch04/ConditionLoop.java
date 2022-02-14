@@ -70,7 +70,5 @@ public class ConditionLoop {
 //				for문인 경우 증감식으로
 //				while, do-while인 경우에는 조건식으로 이동
 	
-
-		 
 	}
 }
