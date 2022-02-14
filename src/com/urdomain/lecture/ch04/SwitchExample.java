@@ -10,7 +10,7 @@ public class SwitchExample {
 //		System.out.println(num);
 
 		//Math.random() : 0.0 ~ 1.0에 가까운 double형태의 값 보내줌
-		//int num = Math.random() * (max-min + 1) + min
+			
 		
 		//ex.주사위
 		// 첫번쨰 주사위는 몇번입니다

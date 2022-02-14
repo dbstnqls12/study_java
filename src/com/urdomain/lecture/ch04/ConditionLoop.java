@@ -50,6 +50,7 @@ public class ConditionLoop {
 //		반복문
 //			for 
 //				끝을 정해두고 반복 수행이 되는 구문
+//			초기선언/조건문/증감식
 //			
 //			while : 무한루프
 //				
