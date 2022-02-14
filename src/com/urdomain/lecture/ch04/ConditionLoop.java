@@ -17,6 +17,7 @@ public class ConditionLoop {
 //				}else { //else에는 조건식을 넣지 않는다
 //					
 //				}
+		
 //				조건이 많은 경우
 //				if(조건식) {
 //					
@@ -45,21 +46,29 @@ public class ConditionLoop {
 //				break
 //				default
 //				break
-		
 //			
 //		반복문
-//			for 
+//			for(int i=1; i<=10; i++) {//초기화, 조건식, 증감식
 //				끝을 정해두고 반복 수행이 되는 구문
-//			초기선언/조건문/증감식
-//			
-//			while : 무한루프
+//			}
+		
+//			while(i<=10) : 무한루프 조심
 //				
-//			do-while
-//				
+//			do-while :
+//			do {
+//					
+//			}while(i<=10);    //t-> 또 돌고, f->끝
+				
 //		참고
 //			break
+//				if문과 같이 쓰임
+//				루프문 탈출
+//				필요한 경우 라벨을 사용하여 상위 루프 탈출 가능
 //			
 //			continue
+//				if문과 같이 쓰임
+//				for문인 경우 증감식으로
+//				while, do-while인 경우에는 조건식으로 이동
 	
 
 		 
