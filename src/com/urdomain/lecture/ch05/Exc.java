@@ -12,7 +12,8 @@ public class Exc {
 		for(int i=0; i<gugu1.length; i++) {
 			System.out.println("---- "+gugu1[i]+"단 ----");
 			for(int j=0; j<gugu2.length; j++) {
-				System.out.println(gugu1[i]+" X "+gugu2[j]+" = "+(gugu1[i]*gugu2[j]));
+				int result = (gugu1[i]*gugu2[j]);
+				System.out.println(gugu1[i]+" X "+gugu2[j]+" = "+result);
 			}
 		}
 	}
