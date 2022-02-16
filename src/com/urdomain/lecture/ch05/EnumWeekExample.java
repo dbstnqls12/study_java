@@ -2,8 +2,9 @@ package com.urdomain.lecture.ch05;
 
 import java.util.Calendar;
 
-public class EnumWeekExample {
+public class EnumWeekExample {	//클래스
 
+	//함수. function = 기능
 	public static void main(String[] args) {
 		
 //		Week abc = Week.MONDAY;	//데이터타입이 Week
@@ -42,4 +43,18 @@ public class EnumWeekExample {
 		}
 		
 	}
+	public void abc() {
+		
+	}
+
+	public void def() {
+		
+	}
+	
+	
+	
+	
+	
+	
+	
 }
