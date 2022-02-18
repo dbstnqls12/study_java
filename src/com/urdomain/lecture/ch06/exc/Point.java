@@ -1,4 +1,4 @@
-package com.urdomain.lecture.ch06;
+package com.urdomain.lecture.ch06.exc;
 
 import java.util.Date;
 
