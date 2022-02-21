@@ -4,8 +4,12 @@ public class CarExample {
 
 	public static void main(String[] args) {
 		
-		Car car = new Car();
+		Car car = new Car();	//Car() 생성자 = 함수이다, new : 연산자
 
+		Student student = new Student();
+		
+		System.out.println("student.no"+student.no );
+		
 //		객체접근연산자(.)를 사용하여 car객체변수의 값을 참조
 		System.out.println("company : "+car.company);
 		System.out.println("model : "+car.model);
