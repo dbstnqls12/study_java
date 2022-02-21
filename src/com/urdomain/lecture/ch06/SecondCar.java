@@ -20,6 +20,11 @@ public class SecondCar {
 		this.model = model;
 		this.color = color;
 	}
+
+	public SecondCar(String model, int maxSpeed) {
+		this.model = model;
+		this.maxSpeed = maxSpeed;
+	}
 	
 	public SecondCar(String model, String color, int maxSpeed) {
 		this.model = model;
