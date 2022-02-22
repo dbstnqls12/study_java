@@ -11,4 +11,6 @@ public class ThirdCalculator {
 		return result2;
 	}
 	
+	
+	//다형성 : 생성자 이름이 같아도 변수가 틀리거나 변수의 위치가 다르면 다른 함수처럼 사용가능(?)
 }
