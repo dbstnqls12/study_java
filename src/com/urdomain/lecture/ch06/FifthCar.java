@@ -22,4 +22,5 @@ public class FifthCar {
 			System.out.println("달립니다. (시속 : "+speed+"km/h)");
 		}
 	}
+	
 }
