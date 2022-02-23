@@ -15,7 +15,7 @@ public class StudentExample {
 		
 		
 //		객체는 참조형 변수라서 아래처럼 하면 알 수 없는 주소값이 보여진다.
-		System.out.println("student : "+student);
+		System.out.println("student : "+student.no);
 		System.out.println("student1 : "+student1); 
 		
 	}
