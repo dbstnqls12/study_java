@@ -11,8 +11,8 @@ public class CalculatorExample {
 		 int result1 = calculator.plus(5,6);
 		 System.out.println("result1 : "+result1);
 		 
-		 byte x =10;
-		 byte y =4;
+		 byte x = 10;
+		 byte y = 4;
 		 double result2 = calculator.divide(x,y);
 		 System.out.println("result2 : "+result2);
 		 
