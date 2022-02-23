@@ -11,10 +11,10 @@ public class TelevisionExample {
 //		System.out.println("Television.info : "+Television.version);	//error
 		System.out.println();
 		
-		Television television = new Television();	//객체 선언도 할 수 있는디 필요없아;
-		
-		System.out.println("Television.company : "+television.company);
-		System.out.println("Television.model : "+television.model);
-		System.out.println("Television.info : "+television.info);
+//		Television television = new Television();	//객체 선언도 할 수 있는디 필요없아;
+//													->static이니까			
+//		System.out.println("Television.company : "+television.company);
+//		System.out.println("Television.model : "+television.model);
+//		System.out.println("Television.info : "+television.info);
 	}
 }
