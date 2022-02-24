@@ -8,7 +8,7 @@ public class FinalCar {
 	//생성자
 	
 	//메소드
-	public int getSpeed() {
+	public int getSpeed() {		//필드가 private이라서 getter,setter 만듦
 		return speed;
 	}
 	public void setSpeed(int speed) {
