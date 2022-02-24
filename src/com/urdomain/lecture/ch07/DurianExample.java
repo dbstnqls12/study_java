@@ -10,6 +10,11 @@ public class DurianExample {
 		durian.printBanana();
 		durian.printCherry();
 		durian.printDurian();
+		
+		System.out.println(durian.getStrApple());
+		System.out.println(durian.getStrBanana());
+		System.out.println(durian.getStrCherry());
+		System.out.println(durian.getStrDurian());
 	}
 	
 }
