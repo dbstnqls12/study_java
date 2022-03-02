@@ -20,3 +20,5 @@ public class MyFriendInfo {
 	
 	
 }
+
+//생성자 없어 -> 기본생성자 쓴다는 뜻
