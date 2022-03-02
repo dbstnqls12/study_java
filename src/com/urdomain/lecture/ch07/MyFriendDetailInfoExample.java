@@ -15,5 +15,6 @@ public class MyFriendDetailInfoExample {
 		System.out.println("나이 : "+myFriendDetailInfo.getAge());
 		System.out.println("주소 : "+myFriendDetailInfo.getAddress());
 		System.out.println("번호 : "+myFriendDetailInfo.getPhone());
+		
 	}
 }

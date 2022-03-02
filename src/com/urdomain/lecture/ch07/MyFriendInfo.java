@@ -3,7 +3,7 @@ package com.urdomain.lecture.ch07;
 public class MyFriendInfo {
 
 	private String name = "";
-	private int age;
+	private Integer age = 0;
 	
 	public String getName() {
 		return name;
