@@ -16,6 +16,9 @@ public class Apple {
 	}
 	void printApple3() {
 		System.out.println("Apple3");
+		
+//		private는 내부에서만 사용 가능
+		this.printApple4();
 	}
 	private void printApple4() {
 		System.out.println("Apple4");

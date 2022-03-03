@@ -1,7 +1,6 @@
 package com.urdomain.lecture.ch07.apple;
 
 import com.urdomain.lecture.ch07.banana.Banana;
-
 import com.urdomain.lecture.ch07.banana.BananaChildPublic;
 import com.urdomain.lecture.ch07.banana.BlueberryChildPublic;
 
