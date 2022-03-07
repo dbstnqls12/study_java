@@ -25,7 +25,7 @@ public class SwitchExample {
 		switch(num) {
 			case 1:
 				System.out.println("첫번째 주사위는 1번입니다");
-				break; //까먹지 말아랏
+				break; 
 			
 			case 2:
 				System.out.println("첫번째 주사위는 2번입니다");
