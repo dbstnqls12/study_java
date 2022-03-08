@@ -1,14 +1,13 @@
 package com.urdomain.lecture.ch08;
 
-public class RemoteControlExample2 {
+public class RemoteControlExample2 {	//익명 구현 객체 = 익명클래스
 
 	public static void main(String[] args) {
 		RemoteControl rc = new RemoteControl(){
 
 			@Override
 			public void turnOn() {
-				// TODO Auto-generated method stub
-				
+				System.out.println("asdasd");
 			}
 
 			@Override
@@ -22,10 +21,7 @@ public class RemoteControlExample2 {
 				// TODO Auto-generated method stub
 				
 			}
-			
-			
-			
 		};
-		
+		rc.turnOn();
 	}
 }
