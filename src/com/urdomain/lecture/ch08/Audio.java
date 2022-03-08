@@ -1,7 +1,7 @@
 package com.urdomain.lecture.ch08;
 
 public class Audio implements RemoteControl{	//구현클래스
-//public class Audio extends Apple implements RemoteControl{	
+
 
 	//필드
 	private int volume;
