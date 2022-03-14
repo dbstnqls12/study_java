@@ -9,5 +9,10 @@ public class ProductExample2 {
 		product.setKind(new Car());
 		product.setModel(450);
 		
+		Car rtCar = product.getKind();
+		Integer rtInteger = product.getModel();
+		
+		System.out.println(rtCar + " : " + rtInteger);
+		
 	}
 }
