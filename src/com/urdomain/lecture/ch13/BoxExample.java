@@ -23,7 +23,7 @@ public class BoxExample {
 		//t : Double t;
 		box3.set(0.3);
 		double number2  = box3.get();
-		System.out.println("number : "+number);
+		System.out.println("number : "+number2);
 		
 		
 	}
