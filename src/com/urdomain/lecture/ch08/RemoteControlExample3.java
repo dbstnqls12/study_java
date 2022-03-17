@@ -15,6 +15,5 @@ public class RemoteControlExample3 {
 //		searchable.turnOn();
 		searchable.search("아이즈원 장원영");
 		
-		
 	}
 }
