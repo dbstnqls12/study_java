@@ -17,7 +17,7 @@ public class RemoteControlExample1 {
 		remoteControl.setMute(true);
 		remoteControl.setMute(false);
 		television.setVolume(volume);
-		RemoteControl.changeBattery();
+		RemoteControl1z.changeBattery();
 		television.turnOff();
 
 		System.out.println();
